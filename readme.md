@@ -6,6 +6,7 @@ Este proyecto contiene el diseño e implementación de una base de datos para un
 
 ## Estructura del Proyecto
 
+```text
 /ecommerce-db-m3
 |---/docs
 │    |--- er.png         -- Diagrama Entidad-Relación
