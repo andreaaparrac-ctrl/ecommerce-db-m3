@@ -53,4 +53,7 @@ Este proyecto contiene el diseño e implementación de una base de datos para un
 - Descuenta el Stock del inventario fisico
 - Actualiza el Monto Total de la orden sumando los valores finales de los detalles insertados
 
+## Repositorio GitHub
+
+https://github.com/andreaaparrac-ctrl/ecommerce-db-m3
 
