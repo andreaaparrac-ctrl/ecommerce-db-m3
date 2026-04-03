@@ -30,3 +30,4 @@ INSERT INTO detalles (orden_id, producto_id, cantidad, precio_unitario) VALUES
 (3, 1, 1, 3000),
 (4, 1, 1, 3000),
 (5, 1, 1, 3000);
+
